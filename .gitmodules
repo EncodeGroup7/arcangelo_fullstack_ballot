@@ -1,0 +1,6 @@
+[submodule "tokenizedBallot_client"]
+	path = tokenizedBallot_client
+	url = https://github.com/Fiodos/tokenizedBallot_client.git
+[submodule "tokenizedBallot_server"]
+	path = tokenizedBallot_server
+	url = https://github.com/Fiodos/tokenizedBallot_server.git
